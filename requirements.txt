@@ -109,9 +109,6 @@ mlxtend==0.23.0
 multimethod==1.10
 multitasking==0.0.11
 murmurhash==1.0.10
-mysql==0.0.3
-mysql-connector==2.2.9
-mysqlclient==2.2.0
 nbclient==0.8.0
 nbconvert==7.16.2
 nbformat==5.9.2
