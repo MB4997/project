@@ -10,3 +10,4 @@ scipy==1.11.3
 seaborn==0.13.0
 statsmodels==0.14.0
 streamlit==1.31.1
+https://project-wzz2b3kmob3ruiuvkuebb4.streamlit.app/
